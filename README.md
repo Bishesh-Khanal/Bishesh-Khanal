@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bishesh-Khanal
-- 👀 I’m interested in data collection, data cleaning and exploratory data analysis
-- 🌱 I’m currently learning web-scraping with Beautifulsoup
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in game programming and design
+- 🌱 I’m currently learning SFML and Unreal engine
+- 💞️ I’m looking to collaborate on making games 
 - 📫 How to reach me You can send a mail at bishesh.khanal25@gmail.com
 
 <!---
