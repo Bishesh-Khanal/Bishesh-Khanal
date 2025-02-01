@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Bishesh-Khanal
-- 👀 I’m interested in game programming and design
-- 🌱 I’m currently learning SFML and Unreal engine
-- 💞️ I’m looking to collaborate on making games 
-- 📫 How to reach me You can send a mail at bishesh.khanal25@gmail.com
+- 👀 I’m interested in game programming and design, especially the programming part.
+- 💞️ If you want to create some fun games together, send me an email.
+- 📫 You can send a mail at bishesh.khanal25@gmail.com
 
 <!---
 Bishesh-Khanal/Bishesh-Khanal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
